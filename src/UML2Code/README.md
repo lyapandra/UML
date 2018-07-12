@@ -1,0 +1,1 @@
+After [Отношения классов — от UML к коду](https://habr.com/post/150041/)
